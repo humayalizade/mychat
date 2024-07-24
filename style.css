@@ -26,7 +26,9 @@ body {
   color: white;
   border-radius: 40px;
   margin: 10px;
+  max-width: 270px;
   padding: 7px 13px;
+  text-align: start;
 }
 #demo .col-md-6 .chat .message {
   width: 480px;
